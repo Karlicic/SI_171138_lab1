@@ -4,6 +4,7 @@ using namespace std;
 
 void printMyName () {
 	//TODO
+cout<<"Marta Karlicic"<<endl;
 }
 
 void printMyIndex () {
